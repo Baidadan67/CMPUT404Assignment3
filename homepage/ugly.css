@@ -1,0 +1,60 @@
+h1{
+    background-color: rgb(255, 0, 0);
+    font-family: "Garamond", Times, serif;
+    color: rgb(0, 255, 0);
+}
+h2{
+    background-color: rgb(0, 255, 0);
+    font-family: "Garamond", Times, serif;
+    color: rgb(255, 0, 255);
+}
+h3{
+    background-color: rgb(0, 0, 255);
+    font-family: "Garamond", Times, serif;
+    color: rgb(255, 255, 255);
+}
+p{
+    background-color: rgb(255, 255, 0);
+    font-family: "Garamond", Times, serif;
+    color: rgb(0, 0, 0);
+}
+p{
+    margin-left: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: grayscale(100%);
+}
+
+body{
+    background-color: rgb(242, 218, 178);
+    font-family: "Garamond", Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+* {
+    box-sizing: border-box;
+}
+.main {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+.side:after {
+    display: table;
+    clear: both;
+}
+
+.inner{
+    background-color: rgb(242, 218, 178);
+    padding: 10px;
+}
+
+.name{
+    text-align: center;
+}

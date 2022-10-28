@@ -1,0 +1,19 @@
+h1, h2, h3, p{
+    background-color: rgb(242, 218, 178);
+    font-family: "Garamond", Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+body{
+    background-color: rgb(242, 218, 178);
+    font-family: "Garamond", Times, serif;
+    color: rgb(0, 0, 0);
+}
